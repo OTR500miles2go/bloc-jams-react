@@ -1,0 +1,44 @@
+.hero-title {
+  background-size: cover;
+  background-position: center;
+  border: 2px solid black;
+  background-color: rgba(198, 195, 209, 0.5);
+  height: 600px;
+  font-size: 4rem;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0.5rem;
+  line-height: 750px;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 0px rgb(58,23,63);
+  top: 0;
+  width: 100%;
+}
+
+.selling-points {
+  border: 2px solid black; 
+  background-color: rgba(198, 195, 209, 0.5);
+  overflow: hidden;
+  margin-top: 550px;
+  position: relative;
+}
+
+.point {
+  position: relative;
+  padding: 2rem;
+  text-align: center;
+  width: 25%;
+  float: left;
+}
+
+.point .point-title {
+  font-size: 1.25rem;
+}
+
+.point .point-description {
+  font-size: 0.9rem;
+  color: black;
+}
